@@ -1,3 +1,8 @@
+To include the most used languages in your GitHub profile, you can utilize a GitHub-readme-stats widget for languages. Below is the updated version of your README, including a section for **Most Used Languages**.
+
+---
+
+```markdown
 <p align="center">
   <a href="https://github.com/Beehive324" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Beehive324-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -9,18 +14,14 @@
 
 <h1 align="center">👋 Welcome to my Profile</h1>
 
-<p align="center">
-  
-</p>
-
 ## 🚀 About Me
 
-Focused on building solutions through software. 
-With experience in real-time healthcare systems, I enjoy solving complex problems through code
+Focused on building solutions through software.  
+With experience in real-time healthcare systems, I enjoy solving complex problems through code.
 
-- 🔭 Currently working on: A Elixir Based DNS Resolver
-- 🌱 Learning: Distributed systems, advanced algorithms, Data Structures & Algorithms
-- 🎯 2025 Goals: Build More
+- 🔭 Currently working on: An Elixir-Based DNS Resolver  
+- 🌱 Learning: Distributed systems, advanced algorithms, Data Structures & Algorithms  
+- 🎯 2025 Goals: Build More  
 
 ## 🎯 Expertise
 
@@ -58,11 +59,17 @@ With experience in real-time healthcare systems, I enjoy solving complex problem
   <img src="https://github-readme-stats.vercel.app/api?username=Beehive324&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
+### 📚 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beehive324&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
+</p>
+
+## 🚀 LeetCode Analytics
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/viery123?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 </p>
-
-
 
 ## 🤝 Let's Connect
 
@@ -81,6 +88,3 @@ With experience in real-time healthcare systems, I enjoy solving complex problem
 <p align="center">
   <i>Feel free to connect for collaboration or technical discussions. Let’s innovate together!</i>
 </p>
-
----
-
