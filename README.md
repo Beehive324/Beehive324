@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-Computer Science undergraduate focused on building solutions through software. 
+Focused on building solutions through software. 
 With experience in real-time healthcare systems, I enjoy solving complex problems through code
 
 - 🔭 Currently working on: A Elixir Based DNS Resolver
