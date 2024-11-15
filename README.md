@@ -54,16 +54,18 @@ With experience in real-time healthcare systems, I enjoy solving complex problem
   <img src="https://github-readme-stats.vercel.app/api?username=Beehive324&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
-### 📚 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beehive324&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
-</p>
 
 ## 🚀 LeetCode Analytics
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/viery123?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+</p>
+
+### 📚 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beehive324&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
 </p>
 
 ## 🤝 Let's Connect
