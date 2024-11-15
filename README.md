@@ -84,6 +84,3 @@ With experience in real-time healthcare systems, I enjoy solving complex problem
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Beehive324&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
