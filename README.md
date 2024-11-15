@@ -10,7 +10,7 @@
 <h1 align="center">👋 Welcome to my Profile</h1>
 
 <p align="center">
-  Software Engineer | Data Enthusiast | AI Innovator
+  Developer
 </p>
 
 ## 🚀 About Me
