@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h1 align="center">👋 Welcome to Fairson Soares's GitHub Profile</h1>
+<h1 align="center">👋 Welcome to my Profile</h1>
 
 <p align="center">
   Software Engineer | Data Enthusiast | AI Innovator
@@ -15,7 +15,8 @@
 
 ## 🚀 About Me
 
-I am a passionate Computer Science undergraduate focused on creating impactful solutions through software engineering and data analytics. With experience in real-time healthcare systems and cutting-edge AI, I enjoy solving complex problems and driving efficiency through innovation.
+Computer Science undergraduate focused on building solutions through software. 
+With experience in real-time healthcare systems, I enjoy solving complex problems and driving efficiency through innovation.
 
 - 🔭 Currently working on: A Elixir Based DNS Resolver
 - 🌱 Learning: Distributed systems, advanced algorithms, Data Structures & Algorithms
@@ -54,7 +55,7 @@ I am a passionate Computer Science undergraduate focused on creating impactful s
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beehive324&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viery123&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
 <p align="center">
