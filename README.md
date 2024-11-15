@@ -1,8 +1,3 @@
-To include the most used languages in your GitHub profile, you can utilize a GitHub-readme-stats widget for languages. Below is the updated version of your README, including a section for **Most Used Languages**.
-
----
-
-```markdown
 <p align="center">
   <a href="https://github.com/Beehive324" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Beehive324-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
