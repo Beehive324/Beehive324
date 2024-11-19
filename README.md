@@ -51,7 +51,7 @@ With experience in real-time care systems analytics and databases, I enjoy solvi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beehive324&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&show_all_commits=true&custom_title=All-Time GitHub Stats" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Beehive324&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
 
