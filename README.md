@@ -25,6 +25,7 @@ With experience in real-time care systems analytics and databases, I enjoy solvi
 │   ├── Python
 │   ├── JavaScript
 │   ├── SQL
+│   ├── Elixir
 │
 ├── Technologies
 │   ├── Frontend
