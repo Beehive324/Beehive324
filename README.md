@@ -44,7 +44,7 @@ With experience in real-time care systems analytics and databases, I enjoy solvi
 │       └── MS SQL Server
 │
 └── Specialized Skills
-    ├── Machine Learning
+    ├── Databases
     ├── ETL Pipelines
     └── Data Structures & Algorithms
 ```
