@@ -16,46 +16,14 @@ With experience in real-time care systems analytics and databases, I enjoy solvi
 - 🌱 Learning: Distributed systems,Data Structures & Algorithms
 - 🎯 2025 Goals: Build More  
 
-## Languages
-
-```markdown
-├── Languages
-│   ├── Python
-│   ├── JavaScript
-│   ├── SQL
-│   ├── Elixir
-│
-├── Technologies
-│   ├── Frontend
-│   │   ├── React.js
-│   │   ├── TailwindCSS
-│   │   └── React Native
-│   │
-│   ├── Backend
-│   │   ├── Django
-│   │   ├── Node.js
-│   │   └── Flask
-│   │
-│   └── DevOps
-│       ├── Docker
-│       ├── Power Automate
-│       └── MS SQL Server
-│
-└── Specialized Skills
-    ├── Databases
-    ├── ETL Pipelines
-    └── Data Structures & Algorithms
-```
-
-## GitHub Analytics
-
+## GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Beehive324&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beehive324&show_icons=true&count_private=true&include_all_commits=true&hide=prs&theme=radical&custom_title=GitHub%20Stats&hide_title=true&token=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)" />
 </p>
 
 
 
-## LeetCode Analytics
+## LeetCode
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/viery123?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
