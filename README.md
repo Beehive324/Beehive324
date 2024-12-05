@@ -14,11 +14,10 @@
 Focused on building solutions through software.  
 With experience in real-time care systems analytics and databases, I enjoy solving complex problems through code.
 
-- 🔭 Currently working on: An Elixir-Based DNS Resolver  
 - 🌱 Learning: Distributed systems, advanced algorithms, Data Structures & Algorithms  
 - 🎯 2025 Goals: Build More  
 
-## 🎯 Expertise
+## 🎯 Languages
 
 ```markdown
 ├── Languages
