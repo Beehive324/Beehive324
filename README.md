@@ -31,6 +31,3 @@ With experience in real-time care systems analytics and databases, I enjoy solvi
     <img src="https://img.shields.io/badge/YouTube-Viery32-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
-<p align="center">
-  <i>Feel free to connect.Let’s innovate together!</i>
-</p>
