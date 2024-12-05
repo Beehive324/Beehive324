@@ -7,7 +7,6 @@
   </a>
 </p>
 
-<h1 align="center">👋 Welcome to my Profile</h1>
 
 ## About Me
 
@@ -48,7 +47,7 @@ With experience in real-time care systems analytics and databases, I enjoy solvi
     └── Data Structures & Algorithms
 ```
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Beehive324&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beehive324&show_icons=true&count_private=true&include_all_commits=true&hide=prs&theme=radical&custom_title=GitHub%20Stats&hide_title=true&token=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)" />
@@ -56,13 +55,13 @@ With experience in real-time care systems analytics and databases, I enjoy solvi
 
 
 
-## 🚀 LeetCode Analytics
+## LeetCode Analytics
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/viery123?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 </p>
 
-### 📚 Most Used Languages
+### Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beehive324&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
