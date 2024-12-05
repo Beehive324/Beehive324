@@ -9,7 +9,7 @@
 
 <h1 align="center">👋 Welcome to my Profile</h1>
 
-## 🚀 About Me
+## About Me
 
 Focused on building solutions through software.  
 With experience in real-time care systems analytics and databases, I enjoy solving complex problems through code.
@@ -17,7 +17,7 @@ With experience in real-time care systems analytics and databases, I enjoy solvi
 - 🌱 Learning: Distributed systems,Data Structures & Algorithms
 - 🎯 2025 Goals: Build More  
 
-## 🎯 Languages
+## Languages
 
 ```markdown
 ├── Languages
