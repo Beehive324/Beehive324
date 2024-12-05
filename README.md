@@ -85,5 +85,5 @@ With experience in real-time care systems analytics and databases, I enjoy solvi
   </a>
 </p>
 <p align="center">
-  <i>Feel free to connect for collaboration or technical discussions. Let’s innovate together!</i>
+  <i>Feel free to connect.Let’s innovate together!</i>
 </p>
