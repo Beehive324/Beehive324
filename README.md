@@ -67,7 +67,7 @@ With experience in real-time care systems analytics and databases, I enjoy solvi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beehive324&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
 </p>
 
-## 🤝 Let's Connect
+## Contact
 
 <p align="center">
   <a href="mailto:your-email@example.com">
