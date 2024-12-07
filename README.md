@@ -19,7 +19,7 @@
 Focused on building solutions through software.  
 With experience in real-time care systems analytics and databases, I enjoy solving complex problems through code.
 
-- 🌱 Learning: Distributed systems,Data Structures & Algorithms
+- 🌱 Interests: swe,data,distributed systems,data structures & algorithms
 - 🎯 2025 Goals: Build More  
 
 
