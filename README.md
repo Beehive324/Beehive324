@@ -17,7 +17,7 @@
 ## About Me
 
 
-Experience in real-time care systems,data transformation and analytics.
+1 Year Experience in data transformation and analytics.
 
 - Interests: swe,data,distributed systems,data structures & algorithms
 - 2025 Goals: Build More  
