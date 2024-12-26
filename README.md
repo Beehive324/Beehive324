@@ -16,10 +16,10 @@
 
 ## About Me
 
-Focused on building solutions through software.  
-With experience in real-time care systems,data transformation and analytics,I enjoy solving complex problems through code.
 
-- 🌱 Interests: swe,data,distributed systems,data structures & algorithms
-- 🎯 2025 Goals: Build More  
+Experience in real-time care systems,data transformation and analytics.
+
+- Interests: swe,data,distributed systems,data structures & algorithms
+- 2025 Goals: Build More  
 
 
