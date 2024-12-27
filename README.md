@@ -9,9 +9,6 @@
   <a href="https://github.com/Beehive324">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.youtube.com/@viery32" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Viery32-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
 </p>
 
 ## About Me
