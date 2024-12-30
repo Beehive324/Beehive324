@@ -2,7 +2,7 @@
 
 
 - Interests: swe,data,distributed systems,data structures & algorithms
-- Experience: SQL,Databases,BI Development
+- Experience: SQL,DB Management,BI Development
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Beehive324&theme=dark&count_private=true)
 
